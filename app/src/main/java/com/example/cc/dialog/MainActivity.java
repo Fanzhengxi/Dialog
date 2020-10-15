@@ -16,6 +16,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 2018年注册Github
+ *纪念：
+ * 2020.10.15第一次将自己的本地项目添加到GitHub仓库中
+ *
+ */
 public class MainActivity extends AppCompatActivity {
    private Button btn_dialog1;
    private Button btn_dialog2;
